@@ -4,6 +4,7 @@
 # Khandakar Mujahidul Islam <suzan@bengalinux.org>, 2006.
 # Maruf Ovee <maruf@ankur.org.bd>, 2009.
 # Sadia Afroz <sadia@ankur.org.bd>, 2010.
+# Mahay Alam Khan <mak@ankur.org.bd>, 2016.
 #
 msgid ""
 msgstr ""
@@ -11,12 +12,14 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=alacarte&component=general\n"
 "POT-Creation-Date: 2009-12-14 15:28+0000\n"
-"PO-Revision-Date: 2010-03-09 12:15+0600\n"
-"Last-Translator: Sadia Afroz <sadia@ankur.org.bd>\n"
+"PO-Revision-Date: 2016-12-06 10:53+0600\n"
+"Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"X-Generator: Poedit 1.8.10\n"
 
 #: ../Alacarte/MainWindow.py:164
 msgid "Name"
@@ -40,7 +43,7 @@ msgstr "প্রধান মেনু"
 
 #: ../data/alacarte.ui.h:1
 msgid "It_ems:"
-msgstr "আইটেম: (_e)"
+msgstr "আইটেম:"
 
 #: ../data/alacarte.ui.h:3
 msgid "Move Down"
@@ -52,11 +55,11 @@ msgstr "উপরে উঠান"
 
 #: ../data/alacarte.ui.h:5
 msgid "Ne_w Item"
-msgstr "নতুন আইটেম (_w)"
+msgstr "নতুন আইটেম"
 
 #: ../data/alacarte.ui.h:6
 msgid "New _Separator"
-msgstr "নতুন বিভাজক (_S)"
+msgstr "নতুন বিভাজক"
 
 #: ../data/alacarte.ui.h:7
 msgid "Restore the default menu layout"
@@ -68,86 +71,85 @@ msgstr "পরিবর্তনগুলো কি বাদ দিতে চ�
 
 #: ../data/alacarte.ui.h:9
 msgid "Revert all menus to original settings?"
-msgstr "সকল মেনু কি আদি সেটিংসে ফিরিয়ে আনা হবে?"
+msgstr "সকল মেনু কি আদি সেটিংসে ফিরিয়ে আনা হবে?"
 
 #: ../data/alacarte.ui.h:10
 msgid "_Menus:"
-msgstr "মেনু: (_M)"
+msgstr "মেনু:"
 
 #: ../data/alacarte.ui.h:11
 msgid "_New Menu"
-msgstr "নতুন মেনু (_N)"
+msgstr "নতুন মেনু"
 
 #: ../data/alacarte.ui.h:12
 msgid "_Revert to Original"
-msgstr "আদি অবস্থায় ফিরে যান (_R)"
+msgstr "আদি অবস্থায় ফিরে যান"
 
-#~ msgid "A name is required."
-#~ msgstr "একটি নাম প্রয়োজন।"
+msgid "A name is required."
+msgstr "একটি নাম প্রয়োজন।"
 
-#~ msgid "A command is required."
-#~ msgstr "একটি কমান্ড প্রয়োজন।"
+msgid "A command is required."
+msgstr "একটি কমান্ড প্রয়োজন।"
 
-#~ msgid "Add, change, remove menu entries"
-#~ msgstr "মেনু এন্ট্রিগুলো যোগ করুন, পরিবর্তন করুন, মুছে ফেলুন"
+msgid "Add, change, remove menu entries"
+msgstr "মেনু এন্ট্রিগুলো যোগ করুন, পরিবর্তন করুন, মুছে ফেলুন"
 
-#~ msgid "Menu Layout"
-#~ msgstr "মেনু বহির্বিন্যাস"
+msgid "Menu Layout"
+msgstr "মেনু বহির্বিন্যাস"
 
-#~ msgid "Alacarte Menu Editor"
-#~ msgstr "Alacarte মেনু সম্পাদক"
+msgid "Alacarte Menu Editor"
+msgstr "Alacarte মেনু সম্পাদক"
 
-#~ msgid "Browse..."
-#~ msgstr "ব্রাউজ করুন..."
+msgid "Browse..."
+msgstr "ব্রাউজ করুন..."
 
-#~ msgid "Command:"
-#~ msgstr "কমান্ড:"
+msgid "Command:"
+msgstr "কমান্ড:"
 
-#~ msgid "Comment:"
-#~ msgstr "মন্তব্য:"
+msgid "Comment:"
+msgstr "মন্তব্য:"
 
-#~ msgid "Copyright © 2006 Travis Watkins"
-#~ msgstr "স্বত্বাধিকার © ২০০৬ Travis Watkins"
+msgid "Copyright © 2006 Travis Watkins"
+msgstr "স্বত্বাধিকার © ২০০৬ Travis Watkins"
 
-#~ msgid "Icon:"
-#~ msgstr "আইকন:"
+msgid "Icon:"
+msgstr "আইকন:"
 
-#~ msgid "Menu Item Properties"
-#~ msgstr "মেনু আইটেম বৈশিষ্ট্য"
+msgid "Menu Item Properties"
+msgstr "মেনু আইটেম বৈশিষ্ট্য"
 
-#~ msgid "Menu Properties"
-#~ msgstr "মেনু বৈশিষ্ট্য"
+msgid "Menu Properties"
+msgstr "মেনু বৈশিষ্ট্য"
 
-#~ msgid "Name:"
-#~ msgstr "নাম:"
+msgid "Name:"
+msgstr "নাম:"
 
-#~ msgid "Run command in a terminal"
-#~ msgstr "টার্মিনালে কমান্ড চালান"
+msgid "Run command in a terminal"
+msgstr "টার্মিনালে কমান্ড চালান"
 
-#~ msgid "translator-credits"
-#~ msgstr ""
-#~ "অঙ্কুর গ্রুপের পক্ষ থেকে খন্দকার মুজাহিদুল ইসলাম সুজন <suzan@bengalinux.org>, ২০০৬।"
+msgid "translator-credits"
+msgstr "অঙ্কুর গ্রুপের পক্ষ থেকে মাহে আলম খান <mak@ankur.org.bd>, ২০১৬।"
 
-#~ msgid "A menu can't be named \"Other\"."
-#~ msgstr "একটি মেনুর নাম \"অন্যান্য\" হতে পারে না।"
+msgid "A menu can't be named \"Other\"."
+msgstr "একটি মেনুর নাম \"অন্যান্য\" হতে পারে না।"
 
-#~ msgid "Loading..."
-#~ msgstr "লোড করা হচ্ছে..."
+msgid "Loading..."
+msgstr "লোড করা হচ্ছে..."
 
-#~ msgid "Visible"
-#~ msgstr "দৃশ্যমান"
+msgid "Visible"
+msgstr "দৃশ্যমান"
 
-#~ msgid "Entry Editor"
-#~ msgstr "এন্ট্রি সম্পাদক"
+msgid "Entry Editor"
+msgstr "এন্ট্রি সম্পাদক"
 
-#~ msgid "Icon Selector"
-#~ msgstr "আইকন নির্বাচক"
+msgid "Icon Selector"
+msgstr "আইকন নির্বাচক"
 
-#~ msgid "Menu Editor"
-#~ msgstr "মেনু সম্পাদক"
+msgid "Menu Editor"
+msgstr "মেনু সম্পাদক"
 
-#~ msgid "New _Entry"
-#~ msgstr "নতুন এন্ট্রি (_E)"
+msgid "New _Entry"
+msgstr "নতুন এন্ট্রি"
 
-#~ msgid "_Delete"
-#~ msgstr "মুছে ফেলুন (_D)"
+msgid "_Delete"
+msgstr "মুছে ফেলুন"
